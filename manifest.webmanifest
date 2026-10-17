@@ -1,0 +1,17 @@
+{
+  "name": "Conferência de Notas",
+  "short_name": "Conferência",
+  "description": "Lançamento rápido de notas conferidas: NF, separador, correta ou com erro.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef1ef",
+  "theme_color": "#27438f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
